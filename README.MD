@@ -13,4 +13,4 @@ Dentro de la ventana del chat tu cita ideal te va a hablar. En la parte de abajo
 si, la charla quizas va un poco mas rapido que en la vida real, pero ES UN JUEGOOOO! no van a estar jugando 2 meses. Todo se resuelve mas rapido aca sino el juego seria un embole... Otra cosa a tener en cuenta: esto esta llevado al extremo. Sabemos que hay gente copada, pero aca solo esta lo mas rancio, que en mi experiencia es lo que abunda en estas apps
 
 ir al juego:
-[https://MaxiContre.github.io/bumbleventura/](https://MaxiContre.github.io/bumbleventura/)
+[https://maxicontre.github.io/bumbleventura/](https://maxicontre.github.io/bumbleventura/)

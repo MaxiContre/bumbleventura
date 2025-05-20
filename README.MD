@@ -2,7 +2,7 @@
 
 ## QUE ES ESTO?
 
-Es un JUEGO. Si, un juego en donde podras experimentar una simulacion de chat con un match varon hetero de app de citas. La conversacion se construye a partir de tus elecciones como mujer hetero. Los dialogos que te escribe "tu cita ideal" estan basados en chats reales de estas apps. 
+Es un JUEGO. Si, un juego en donde podras experimentar una simulacion de chat con el clasico match varon goma heterocanchero que te podrias cruzar en estas app de citas. La conversacion se construye a partir de tus elecciones como mujer hetero. Los dialogos que te escribe "tu cita ideal" estan basados en chats reales de Bumble y Tinder. 
 
 ## COMO JUGAR
 

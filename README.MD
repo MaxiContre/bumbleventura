@@ -1,8 +1,8 @@
-# 💩 🔥 👻 💔 ELIGE TU PROPIA **TINDER**VENTURA 💔 👻 🔥 💩  
+# 💩 🔥 👻 💔 ELIGE TU PROPIA **CITA**AVENTURA 💔 👻 🔥 💩  
 
 ## QUE ES ESTO?
 
-Es un JUEGO. Si, un juego en donde podes experimentar una simulacion de un chat con un match varon hetero de TINDER. La conversacion se construye a partir de tus elecciones como mujer hetero. Los dialogos que te escribe "tu cita ideal" estan basados en chats reales de Tinder. Me hubiese encantado hacerlo mas diverso, pero soy hetero y esta es nuestra triste realidad.
+Es un JUEGO. Si, un juego en donde podras experimentar una simulacion de chat con un match varon hetero de app de citas. La conversacion se construye a partir de tus elecciones como mujer hetero. Los dialogos que te escribe "tu cita ideal" estan basados en chats reales de estas apps. 
 
 ## COMO JUGAR
 
@@ -10,8 +10,8 @@ Dentro de la ventana del chat tu cita ideal te va a hablar. En la parte de abajo
 
 ## AVISO ⭐️ 
 
-si, la charla quizas va un poco mas rapido que en la vida real, pero ES UN JUEGOOOO! no van a estar jugando 2 meses. Todo se resuelve mas rapido aca sino el juego seria un embole... Otra cosa a tener en cuenta: esto esta llevado al extremo. Sabemos que hay gente copada, pero aca solo esta lo mas rancio, que en mi experiencia es lo que abunda en tinder
+si, la charla quizas va un poco mas rapido que en la vida real, pero ES UN JUEGOOOO! no van a estar jugando 2 meses. Todo se resuelve mas rapido aca sino el juego seria un embole... Otra cosa a tener en cuenta: esto esta llevado al extremo. Sabemos que hay gente copada, pero aca solo esta lo mas rancio, que en mi experiencia es lo que abunda en estas apps
 
 ir al juego:
-[https://violetbaggins.github.io/tinderventura/](https://violetbaggins.github.io/tinderventura/)
+[https://violetbaggins.github.io/bumbleventura/](https://violetbaggins.github.io/bumbleventura/)
 

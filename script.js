@@ -124,10 +124,10 @@ function selectOption(option){
 const textNodes = [
     {
         id: 1,
-        text: "Hola linda, td bn?",
+        text: "Hola Meli, td bn?",
         options: [
             {
-                text: 'me estas escribiendo de un nokia 1100?',
+                text: 'te cobran por cada palabra o tenes un nokia 1100?',
                 /* setState: {malaonda: true}, */
                 nextText: 2
             },
@@ -142,7 +142,7 @@ const textNodes = [
         text: "jajaj, por?",
         options: [
             {
-                text: "mira que no te cobran por caracter. Podes usar palabra completas, o es que queres ahorrar tiempo?",
+                text: "mira que no te cobran por caracter. Podes usar palabras completas, o es que queres ahorrar tiempo?",
               /*   requiredState: (currentState) => currentState.malaonda,
                 setState: {malaonda: false, masmalaonda: true}, */
                 nextText: 4
@@ -165,7 +165,7 @@ const textNodes = [
                 nextText: 5
             },
             {
-                text: 'Tomar mate como primera cita? really?',
+                text: 'Tomar mate como primera cita? jajaja',
                 nextText: 6
             }
 
@@ -173,10 +173,10 @@ const textNodes = [
     },
     {
         id: 4,
-        text: 'jajaj me haces reir. Lo que me sobra es tiempo asi que contame, como te trata Bumble?',
+        text: 'jajaj me haces reir. Lo que me sobra es tiempo asi que contame, como te trata esta app?',
         options: [
             {
-                text: 'yo diria q no muy bien si todavia sigo aca, no?',
+                text: 'yo diria que no muy bien si todavia sigo aca, no?',
                 nextText: 7
             },
             {
@@ -191,7 +191,7 @@ const textNodes = [
         text: 'espero que ese algun dia sea pronto',
         options: [
             {
-                text: 'jaja bueno me gustaria conocerte un poquito mas antes de salir',
+                text: 'jaja bueno pero me gustaria conocerte un poquito mas antes de salir',
                 nextText: 9
             },
             {
@@ -233,7 +233,7 @@ const textNodes = [
     },
     {
         id: 8,
-        text: 'te viste con muchos de aca?',
+        text: 'Meli es por Mercado Libre? ah re, jajaa te viste con muchos de aca?',
         options: [
             {
                 text: 'pff, creo q demasiados ya',
@@ -248,7 +248,7 @@ const textNodes = [
     },
     {
         id: 9,
-        text: "es que hablar por aca es una cagada. En vivo es mejor para conocerse. Aparte me aburre mucho el chat eterno. tenes whatsapp?",
+        text: "es que hablar por aca es una cagada. En vivo es mejor para conocerse. Aparte me aburre mucho el chat eterno. Tenes whatsapp?",
         options: [
             {
                 text: 'que te hace pensar que te lo voy a dar?',
@@ -266,12 +266,12 @@ const textNodes = [
         text: "bueno, no es para que te enojes. Solo te estaba invitando a salir. Todo bien si no queres pero si te cerras a las oportunidades nunca vas a conseguir nada",
         options: [
             {
-                text: 'ay tenes razon. Como no lo habia pensado antes. Perdoname - Al proximo que matchee lo invito a casa, de una. Gracias por el consejo XD',
+                text: 'Ayyy tenes razon. Como no lo habia pensado antes. Perdoname - Al proximo que matchee lo invito a casa, de una. Gracias por el consejo XD',
                 meme: "https://memegenerator.net/img/images/300x300/72583845.jpg",
                 nextText: 13
             },
             {
-                text: 'tranqui yo no me enoje. Empecemos de nuevo, dale?',
+                text: 'Tranqui yo no me enoje. Empecemos de nuevo, dale?',
                 nextText: 103
             }
 
@@ -279,11 +279,11 @@ const textNodes = [
     },
     {
         id: 11,
-        text: "Claramente no. Si algun dia te pinta verme, me escribis. Sos vos la que se pierde esto (mira tranqui que esta blureada)",
+        text: "Claramente no. Si algun dia te pinta verme, me escribis. Sos vos la que se pierde esto ;)",
         meme: "https://meowmix.org/wp-content/uploads/2020/05/point-blur_may202020_140651108769634393577148..jpg",
         options: [
             {
-                text: '"Gracias bro, la agrego a la coleccion" *bloquear*',
+                text: '"Gracias bro, te agrego a la coleccion de" *bloquedos*',
                 nextText: 102
             },
             {

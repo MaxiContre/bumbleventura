@@ -165,7 +165,7 @@ const textNodes = [
                 nextText: 5
             },
             {
-                text: 'Tomar mate como primera cita? jajaja',
+                text: 'jajajaja, que apurado. Tomar mate como primera cita? mmmmm no creo',
                 nextText: 6
             }
 
@@ -173,7 +173,7 @@ const textNodes = [
     },
     {
         id: 4,
-        text: 'jajaj me haces reir. Lo que me sobra es tiempo asi que contame, como te trata esta app?',
+        text: 'jajaj me haces reir. Contame un poco de vos: según Bumble te llamas Melisa, tenes 36 años y vivis en CABA, como te trata esta app?',
         options: [
             {
                 text: 'yo diria que no muy bien si todavia sigo aca, no?',
@@ -191,7 +191,7 @@ const textNodes = [
         text: 'espero que ese algun dia sea pronto',
         options: [
             {
-                text: 'jaja bueno pero me gustaria conocerte un poquito mas antes de salir',
+                text: 'jaja, me gusta conocer un poquito mas a la gente antes de salir',
                 nextText: 9
             },
             {
@@ -218,14 +218,14 @@ const textNodes = [
     },
     {
         id: 7,
-        text: 'Pero que esperas encontrar aca? un novio? un chongo? un Christian Grey?',
+        text: 'Pero que esperas encontrar aca? un novio? un amigacho? un Luciano Castro?',
         options: [
             {
                 text: 'un sugar daddy',
                 nextText: 39
             },
             {
-                text: "creo que quedo bastante claro en mi msj anterior, no? Dejar de usar bumble",
+                text: "creo que quedo bastante claro en mi msj anterior, no? Lo unico claro que tengo ahora es dejar de usar bumble",
                 nextText: 103
             }
 
@@ -233,10 +233,10 @@ const textNodes = [
     },
     {
         id: 8,
-        text: 'Meli es por Mercado Libre? ah re, jajaa te viste con muchos de aca?',
+        text: 'Meli es por Melisa o por Mercado Libre? ah re, jajaa te viste con muchos de aca?',
         options: [
             {
-                text: 'pff, creo q demasiados ya',
+                text: 'pff, creo que ya leí demasiado por hoy',
                 nextText: 7
             },
             {
@@ -298,7 +298,7 @@ const textNodes = [
         text: "no se, haces algo hoy?",
         options: [
             {
-                text: 'jaja bueno me gustaria conocerte un poquito mas antes de salir',
+                text: 'jaja bueno me gustaria conocerte un poco mas de vos antes de salir',
                 nextText: 9
             },
             {
@@ -310,7 +310,7 @@ const textNodes = [
     },
     {
         id: 13,
-        text: "y entonces por que no me invitas a mi?",
+        text: "y entonces por que no me invitas vos a mi?",
         options: [
             {
                 text: `*mandar meme de la dignidad*`,
@@ -341,7 +341,7 @@ const textNodes = [
     },
     {
         id: 15,
-        text: "Viste así quedan las conversaciones al pedo tener tanto mach",
+        text: "Viste así quedan las conversaciones. Al pedo tener tanto mach",
         options: [
             {
                 text: "y.. depende mucho con quien te encuentres. A veces male sal",
@@ -386,7 +386,7 @@ const textNodes = [
     },
     {
         id: 18,
-        text: "Son todas iguales, despues se quejan de q no hay pibes y ni siquiera te dan la oportunidad. CHAU",
+        text: "Son todas iguales, despues se quejan de q no hay hombres y ni siquiera te dan la oportunidad. CHAU",
         options: [
             {
                 text: "Chau",
@@ -446,7 +446,7 @@ const textNodes = [
     },
     {
         id: 22,
-        text: "la verdad, nada. Solo que me voy a senitr mal. Eso nada mas",
+        text: "la verdad, nada. Solo que me voy a sentir un poco mal. Eso nada mas",
         options: [
             {
                 text: `No te prometo intentarlo, pero intentare intentarlo ajjaja`,

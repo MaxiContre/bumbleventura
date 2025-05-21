@@ -124,7 +124,7 @@ function selectOption(option){
 const textNodes = [
     {
         id: 1,
-        text: "Hola Meli, td bn?",
+        text: "Hola Meli de Bambelll, td bn hermosa?",
         options: [
             {
                 text: 'te cobran por cada palabra o tenes un nokia 1100?',
@@ -158,7 +158,7 @@ const textNodes = [
     },
     {
         id: 3,
-        text: "bien, me levante hace un rato y ahora estoy por hacerme unos mates. Vi que vivimos cerca, somos vecinos. tenemos que hacer unos mates juntos",
+        text: "bien, me levante hace un rato, todo babeado y ahora estaba por hacerme unos mates. Vi que vivimos cerca, somos vecinos. Salen unos matiensos juntos?",
         options: [
             {
                 text: 'Si, algun dia podria ser',
@@ -173,10 +173,10 @@ const textNodes = [
     },
     {
         id: 4,
-        text: 'jajaj me haces reir. Contame un poco de vos: según Bumble te llamas Marisa, tenes 36 años y vivis en CABA, como te trata esta app?',
+        text: 'jajaj me haces reir. Contame un poco de vos: según Bumble te llamas Marisa, la que vive en la cornisa, tiene una amiga llamada Lisa y cuando hay viendo le gusta la brisa. Ahh re poeta era. Tambien dice que tenes 36 años y vivis en Capital, como te trata esta app?',
         options: [
             {
-                text: 'Me llamo Melisa, no Marisa, y yo diria que no muy bien si todavia sigo aca, no?',
+                text: 'Me llamo Melisa, no Marisa, y yo diria que no muy bien si todavia sigo aca, no? Igual que a vos',
                 nextText: 7
             },
             {

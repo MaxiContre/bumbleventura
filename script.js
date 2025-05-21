@@ -173,10 +173,10 @@ const textNodes = [
     },
     {
         id: 4,
-        text: 'jajaj me haces reir. Contame un poco de vos: según Bumble te llamas Melisa, tenes 36 años y vivis en CABA, como te trata esta app?',
+        text: 'jajaj me haces reir. Contame un poco de vos: según Bumble te llamas Marisa, tenes 36 años y vivis en CABA, como te trata esta app?',
         options: [
             {
-                text: 'yo diria que no muy bien si todavia sigo aca, no?',
+                text: 'Me llamo Melisa, no Marisa, y yo diria que no muy bien si todavia sigo aca, no?',
                 nextText: 7
             },
             {
@@ -191,7 +191,7 @@ const textNodes = [
         text: 'espero que ese algun dia sea pronto',
         options: [
             {
-                text: 'jaja, me gusta conocer un poquito mas a la gente antes de salir',
+                text: 'me gusta conocer un poquito mas a la gente antes de salir',
                 nextText: 9
             },
             {
@@ -206,7 +206,7 @@ const textNodes = [
         text: 'No, podemos ir a tomar una birra o a comer, lo que vos quieras. Mientras sea pronto :)',
         options: [
             {
-                text: 'Cuando es pronto para vos?',
+                text: 'Cuando seria pronto para vos?',
                 nextText: 12
             },
             {
@@ -225,7 +225,7 @@ const textNodes = [
                 nextText: 39
             },
             {
-                text: "creo que quedo bastante claro en mi msj anterior, no? Lo unico claro que tengo ahora es dejar de usar bumble",
+                text: "creo que quedo bastante claro en mi msj anterior, no?. Lo que se, es que tengo que dejar de usar bumble",
                 nextText: 103
             }
 
@@ -233,7 +233,7 @@ const textNodes = [
     },
     {
         id: 8,
-        text: 'Meli es por Melisa o por Mercado Libre? ah re, jajaa te viste con muchos de aca?',
+        text: 'Me gustan tus ojos. Meli es por Melisa o por Mercado Libre? ah re, jajaa te viste con muchos de aca?',
         options: [
             {
                 text: 'pff, creo que ya leí demasiado por hoy',
@@ -248,14 +248,14 @@ const textNodes = [
     },
     {
         id: 9,
-        text: "es que hablar por aca es una cagada. En vivo es mejor para conocerse. Aparte me aburre mucho el chat eterno. Tenes whatsapp?",
+        text: "es que charlar por aca es una cagada. En vivo es mejor para conocerse. Aparte me aburre mucho el chat eterno. Tenes whatsapp?",
         options: [
             {
                 text: 'que te hace pensar que te lo voy a dar?',
                 nextText: 10
             },
             {
-                text: 'Creo q no nos estamos entendiendo',
+                text: 'Creo que no nos estamos entendiendo',
                 nextText: 11
             }
 
@@ -298,7 +298,7 @@ const textNodes = [
         text: "no se, haces algo hoy?",
         options: [
             {
-                text: 'jaja bueno me gustaria conocerte un poco mas de vos antes de salir',
+                text: 'jaja no salgo con gente que no conozco',
                 nextText: 9
             },
             {
@@ -333,7 +333,7 @@ const textNodes = [
                 nextText: 15
             },
             {
-                text: 'en realidad es: desvergonzada intergalaticta',
+                text: 'en realidad es: desvergonzada intergalactica',
                 nextText: 16
             }
 

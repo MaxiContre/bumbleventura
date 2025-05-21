@@ -165,7 +165,7 @@ const textNodes = [
                 nextText: 5
             },
             {
-                text: 'jajajaja, que apurado. Tomar mate como primera cita? mmmmm no creo',
+                text: 'jajajaja, que apurado. Tomar mate? mmmmm no creo',
                 nextText: 6
             }
 

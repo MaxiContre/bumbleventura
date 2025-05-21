@@ -124,7 +124,7 @@ function selectOption(option){
 const textNodes = [
     {
         id: 1,
-        text: "Hola Meli de Bambelll, td bn hermosa?",
+        text: "Hola Meli de Bambelll, td bn?",
         options: [
             {
                 text: 'te cobran por cada palabra o tenes un nokia 1100?',
